@@ -1,3 +1,18 @@
 # How To Buy VPS
 
-- I will update this guide soon
+```javascript
+apt update
+apt install sudo
+```
+```javascript
+sudo apt update & sudo apt upgrade -y
+```
+```javascript
+sudo apt update & sudo apt upgrade -y
+```
+```javascript
+sudo apt update & sudo apt upgrade -y
+```
+```javascript
+sudo apt update & sudo apt upgrade -y
+```
